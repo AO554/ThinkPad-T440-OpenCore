@@ -1,5 +1,5 @@
 # ThinkPad T440 - OpenCore 0.6.2 Configuration
-My ThinkPad T440 Configuration Using OpenCore to boot Catalina. (Confirmed working for 10.15.7)
+My ThinkPad T440 Configuration Using OpenCore to boot macOS Catalina. (Confirmed working for 10.15.7)
 
 SMBIOS is classed as a MacBook Air (13 Inch, Mid-2013) otherwise known as the MacBookAir6,2
 
@@ -22,7 +22,7 @@ If you encounter any problems with this, leave it to issues or please push appro
 - CPU and IGPU Power Management
 - Battery Status
 - Brightness
-- Function Keys (Fn)
+- Function Keys (Fn) - Read Below about ThinkPadAssistant
 - ClickPad and TrackPad
 - Integrated Camera
 
@@ -40,7 +40,8 @@ If you encounter any problems with this, leave it to issues or please push appro
 ````
 # Wireless?
 While Intel Wireless Network is presumed to now work with a Patch from [OpenIntelWireless](https://github.com/OpenIntelWireless), I have opted for a Broadcom DW1560 on BIOS Revision 2.36.
-Handoff with the DW1560 works perfectly and had no trouble communicating with my iPhone.
+
+Handoff with Bluetooth with the DW1560 works perfectly and had no trouble communicating with my iPhone.
 
 ## Known Issues (Results may vary):
 
@@ -49,8 +50,10 @@ Handoff with the DW1560 works perfectly and had no trouble communicating with my
 - Kernel Panic into an Instant Reboot when attempting sleep, restart or Shutdown while External Display connected on one of the Docking Station Video Ports (DisplayPort, DVI, VGA)
 - No DisplayPort Audio when using the Docking Station DisplayPort
 
+# Keyboard Functions - Optional 
+I've just started using a tool by the name of [ThinkpadAssistant](https://github.com/MSzturc/ThinkpadAssistant) which will work perfectly with this configuration, I have confirmed myself that the ``T440p`` Sample works with this, and feel like that while this isn't in my configuration it will be handy for you to have.
 
 # Credits to:
-- OpenCore Team - @acidanthera (Thanks guys!)
+- OpenCore Team - [@acidanthera](https://github.com/acidanthera) (Thanks guys!)
 - u/janos_litkei on Reddit (Thank you so much buddy)
-- Sniki (For the Inital 0.5.9 Configuration for the T440s)
+- [Sniki](https://github.com/Sniki) (For the Inital 0.5.9 Configuration for the T440s as Reference)
