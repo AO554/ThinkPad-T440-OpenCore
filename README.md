@@ -54,6 +54,7 @@ Handoff with Bluetooth with the DW1560 works perfectly and had no trouble commun
 I've just started using a tool by the name of [ThinkpadAssistant](https://github.com/MSzturc/ThinkpadAssistant) which will work perfectly with this configuration, I have confirmed myself that the ``T440p`` Sample works with this, and feel like that while this isn't in my configuration it will be handy for you to have.
 
 # Credits to:
-- OpenCore Team - [@acidanthera](https://github.com/acidanthera) (Thanks guys!)
-- u/janos_litkei on Reddit (Thank you so much buddy)
-- [@Sniki](https://github.com/Sniki) (For the Inital 0.5.9 Configuration for the T440s as Reference)
+- OpenCore Team - [@acidanthera](https://github.com/acidanthera) - (Thanks guys!)
+- u/janos_litkei on Reddit - (Thank you so much buddy)
+- [@Sniki](https://github.com/Sniki) - (For the Inital 0.5.9 Configuration for the T440s as Reference)
+- [@ MSzturc](https://github.com/MSzturc) - (ThinkPadAssistant Tool) 
