@@ -56,4 +56,4 @@ I've just started using a tool by the name of [ThinkpadAssistant](https://github
 # Credits to:
 - OpenCore Team - [@acidanthera](https://github.com/acidanthera) (Thanks guys!)
 - u/janos_litkei on Reddit (Thank you so much buddy)
-- [Sniki](https://github.com/Sniki) (For the Inital 0.5.9 Configuration for the T440s as Reference)
+- [@Sniki](https://github.com/Sniki) (For the Inital 0.5.9 Configuration for the T440s as Reference)
