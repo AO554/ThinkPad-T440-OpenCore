@@ -1,5 +1,5 @@
 # ThinkPad T440 - OpenCore 0.6.2 Configuration
-My ThinkPad T440 Configuration Using OpenCore to boot Catalina. (Confirmed working for 10.15.7
+My ThinkPad T440 Configuration Using OpenCore to boot Catalina. (Confirmed working for 10.15.7)
 
 # !! Notice !!
 This configuration works for my T440, I'm not saying it will work for everyone but these are all the files and changes I had to do to make successful boots.
@@ -35,7 +35,7 @@ If you encounter any problems with this, leave it to issues or please push appro
     ./install.sh
 ````
 # Wireless?
-While Intel Wireless Network is presumed to now work with a Patch from OpenIntelWireless, I have opted for a Broadcom DW1560 on BIOS Revision 2.36.
+While Intel Wireless Network is presumed to now work with a Patch from [OpenIntelWireless](https://github.com/OpenIntelWireless), I have opted for a Broadcom DW1560 on BIOS Revision 2.36.
 Handoff with the DW1560 works perfectly and had no trouble communicating with my iPhone.
 
 ## Known Issues (Results may vary):
