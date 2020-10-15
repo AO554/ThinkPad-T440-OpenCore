@@ -46,7 +46,7 @@ Handoff with Bluetooth with the DW1560 works perfectly and had no trouble commun
 ## Known Issues (Results may vary):
 
 - Docking Station Audio Jack has no input support, only output because we can't use two inputs as LineIn.
-- SD Card Reader after wake from sleep can't eject normally, you have to Force Eject.
+- SD Card Reader (At least for me) when a card is inserted will send you into a loop of Kernel Panics until removed.
 - Kernel Panic into an Instant Reboot when attempting sleep, restart or Shutdown while External Display connected on one of the Docking Station Video Ports (DisplayPort, DVI, VGA)
 - No DisplayPort Audio when using the Docking Station DisplayPort
 
