@@ -6,7 +6,7 @@ SMBIOS is classed as a MacBook Air (13 Inch, Mid-2013) otherwise known as the Ma
 # !! Notice !!
 This configuration works for my T440, I'm not saying it will work for everyone but these are all the files and changes I had to do to make successful boots.
 
-###I have also gone ahead and removed my Serial Number, MLB and SystemUUID, you will have to fill these in yourself.
+I have also gone ahead and removed my Serial Number, MLB and SystemUUID, you will have to fill these in yourself.
 
 If you encounter any problems with this, leave it to issues or please push appropriate confirmed working fixes, thanks.
 
