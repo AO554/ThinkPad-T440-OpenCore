@@ -28,7 +28,7 @@ If you encounter any problems with this, leave it to issues or please push appro
 
 # My Audio Isn't working out of the box, What do I do?
 
-- Download [ALCPluginFix](https://github.com/Sniki/ALCPlugFix)
+- Download [ALCPluginFix](https://github.com/AO554/ThinkPad-T440-OC-0.6.2/blob/main/ALCPlugFix.zip?raw=true)
 - Extracted *ALCPlugFix* folder into Desktop.
 - Open *Terminal* and enter the following commands 1by1:
 
