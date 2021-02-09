@@ -41,7 +41,7 @@ If you encounter any problems with this, leave it to issues or please push appro
 # Wireless?
 While Intel Wireless Network is presumed to now work with a Patch from [OpenIntelWireless](https://github.com/OpenIntelWireless), I have opted for a Broadcom DW1560 on BIOS Revision 2.36.
 
-Handoff with Bluetooth with the DW1560 works perfectly and had no trouble communicating with my iPhone.
+Handoff with Bluetooth with the DW1560 works perfectly and had.. well a little trouble communicating with my iPhone. (Read below)
 
 ## Known Issues (Results may vary):
 
