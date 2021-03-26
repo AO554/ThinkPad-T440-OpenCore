@@ -3,7 +3,7 @@ My ThinkPad T440 Configuration Using OpenCore to boot macOS Catalina. (Confirmed
 
 SMBIOS is classed as a MacBook Air (13 Inch, Mid-2013) otherwise known as the MacBookAir6,2
 
-** THIS THREAD IS NO LONGER BEING UPDATED, I DO NOT OWN THIS LAPTOP ANYMORE. **
+**THIS THREAD IS NO LONGER BEING UPDATED, I DO NOT OWN THIS LAPTOP ANYMORE.**
 
 # !! Notice !!
 This configuration works for my T440, I'm not saying it will work for everyone but these are all the files and changes I had to do to make successful boots.
